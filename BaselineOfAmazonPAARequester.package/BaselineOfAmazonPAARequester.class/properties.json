@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brackendev 6/11/2019 22:18",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfAmazonPAARequester",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfAmazonPAARequester",
+	"type" : "normal"
+}

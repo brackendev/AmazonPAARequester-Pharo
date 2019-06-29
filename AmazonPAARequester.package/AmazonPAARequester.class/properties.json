@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "brackendev 6/11/2019 22:18",
+	"super" : "Object",
+	"category" : "AmazonPAARequester",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"accessKeyID",
+		"secretKey",
+		"domain",
+		"associateTag"
+	],
+	"name" : "AmazonPAARequester",
+	"type" : "normal"
+}

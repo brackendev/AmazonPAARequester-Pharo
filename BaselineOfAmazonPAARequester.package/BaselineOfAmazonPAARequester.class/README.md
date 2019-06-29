@@ -1,0 +1,1 @@
+BaselineOfAmazonPAARequester is the BaselineOf subclass for AmazonPAARequester.
