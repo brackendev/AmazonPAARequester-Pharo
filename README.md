@@ -34,11 +34,6 @@ Metacello new
     amazon retrieveWithParameters: params.
     ```
 
-## Acknowledgements
-
-* [Sven Van Caekenberghe](https://github.com/svenvc) and [contributors](https://github.com/svenvc/zinc/graphs/contributors) for the [Zinc HTTP Components](http://stfx.eu), the open-source Smalltalk framework to deal with the HTTP networking protocol.
-* The [Pharo team](https://github.com/orgs/pharo-project/people) and [contributors](https://github.com/pharo-project/pharo/graphs/contributors) for [Pharo](http://pharo.org/), the pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback.
-
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
