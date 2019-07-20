@@ -34,6 +34,12 @@ Metacello new
     amazon retrieveWithParameters: params.
     ```
 
+## Acknowledgements
+
+This project makes use of the following third-party libraries:
+
+* [Zinc HTTP Components](https://github.com/svenvc/zinc)
+
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
