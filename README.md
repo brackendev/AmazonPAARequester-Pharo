@@ -7,7 +7,7 @@ AmazonPAARequester-Pharo
 
 ## Installation
 
-In a Pharo playground, evaluate:
+In a Playground, evaluate:
 
 ```smalltalk
 Metacello new 
@@ -25,7 +25,7 @@ Metacello new
 1. Get an Associate ID at <http://docs.aws.amazon.com/AWSECommerceService/latest/DG/becomingAssociate.html>.
 2. Create security credentials at <https://console.aws.amazon.com/iam/home#security_credential>.
 3. Create the API parameters at <http://webservices.amazon.com/scratchpad/>.
-4. Use AmazonPAARequester `#createURLWithParameters:` or `#retrieveWithParameters:`. (Use the scratchpad at <http://webservices.amazon.com/scratchpad/> to create the parameters.) In a Pharo playground, evaluate:
+4. Use AmazonPAARequester `#createURLWithParameters:` or `#retrieveWithParameters:`. (Use the scratchpad at <http://webservices.amazon.com/scratchpad/> to create the parameters.) In a Playground, evaluate:
 
     ```smalltalk
     amazon := AmazonPAARequester createWithAccessKeyID: ACCESS_KEY_ID secretKey: SECRET_KEY associateTag: ASSOCIATE_TAG.
