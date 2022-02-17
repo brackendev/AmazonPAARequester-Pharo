@@ -13,9 +13,6 @@ In a Playground, evaluate:
 Metacello new 
   repository: 'github://brackendev/AmazonPAARequester-Pharo';
   baseline: 'AmazonPAARequester';
-  onConflict: [ :ex | ex useIncoming ];
-  onUpgrade: [ :ex | ex useIncoming ];
-  onDowngrade: [ :ex | ex useLoaded ];
   load.
 ```
 
