@@ -3,7 +3,7 @@ AmazonPAARequester-Pharo
 
 **Create and retrieve signed URLs for the Amazon Product Advertising API.**
 
-* [Pharo 6.0](http://pharo.org/) reference platform.
+* [Pharo 6](http://pharo.org/) reference platform.
 
 ## Installation
 
