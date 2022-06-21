@@ -5,6 +5,10 @@ AmazonPAARequester-Pharo
 
 * [Pharo 6](http://pharo.org/) reference platform.
 
+## TODO
+
+- [ ] Support latest Pharo release
+
 ## Installation
 
 In a Playground, evaluate:
